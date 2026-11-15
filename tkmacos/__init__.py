@@ -22,7 +22,7 @@ and foreground colors.
 TkMacos is the maintained fork of the original tkmacosx project.
 """
 
-__version__ = '2.0.0'
+__version__ = '2.0.1'
 __author__ = 'Saad Mairaj'
 
 from tkmacos.variables import ColorVar, DictVar, SaveVar
