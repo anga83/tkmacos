@@ -1,0 +1,14 @@
+TkMacos
+
+TkMacos is derived from tkmacosx, originally created by Saad Mairaj.
+Copyright 2021 Saad Mairaj.
+Original project: https://github.com/Saadmairaj/tkmacosx
+
+The original work is licensed under the Apache License, Version 2.0; see
+LICENSE. The following changes are made in this fork:
+
+- The distribution and import package names are changed to tkmacos.
+- Release-event binding cleanup is deferred to preserve click callbacks under
+  Python 3.15.
+- Build metadata is read without importing Tkinter.
+- Tests and documentation are updated for the fork.
