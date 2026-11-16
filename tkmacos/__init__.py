@@ -19,11 +19,11 @@ and some more useful functions and classes as well. For example Button of tkmaco
 looks and feels exactly like a native tkinter button can change its background 
 and foreground colors.
 
-TkMacos is the maintained fork of the original tkmacosx project.
+tkmacOS is the maintained fork of the original tkmacosx project.
 """
 
 __version__ = '2.0.1'
-__author__ = 'Saad Mairaj'
+__author__ = ''
 
 from tkmacos.variables import ColorVar, DictVar, SaveVar
 from tkmacos.widgets import Button, CircleButton, Colorscale, Radiobutton, Marquee, SFrame
